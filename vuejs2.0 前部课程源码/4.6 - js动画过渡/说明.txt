@@ -1,0 +1,1 @@
+index.html 加入了全局jquery 引用，放到根目录下

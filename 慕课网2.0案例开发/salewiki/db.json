@@ -1,0 +1,80 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "新闻条目1新闻条目1新闻条目1新闻条目1",
+      "url": "http://starcraft.com"
+    },
+    {
+      "id": 2,
+      "title": "新闻条目2新闻条目2新闻条目2新闻条目2",
+      "url": "http://warcraft.com"
+    },
+    {
+      "id": 3,
+      "title": "新闻条3新闻条3新闻条3",
+      "url": "http://overwatch.com"
+    },
+    {
+      "id": 4,
+      "title": "新闻条4广告发布",
+      "url": "http://hearstone.com"
+    },
+    {
+      "userId": "123",
+      "id": 5
+    },
+    {
+      "userId": "123",
+      "id": 6
+    },
+    {
+      "userId": "123",
+      "id": 7
+    },
+    {
+      "userId": "123",
+      "id": 8
+    },
+    {
+      "userId": "123",
+      "id": 9
+    },
+    {
+      "userId": "123",
+      "id": 10
+    },
+    {
+      "userId": "123",
+      "id": 11
+    },
+    {
+      "userId": "123",
+      "id": 12
+    },
+    {
+      "userId": "123",
+      "id": 13
+    },
+    {
+      "userId": "123",
+      "id": 14
+    },
+    {
+      "userId": "123",
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/vue-imooc/src/main-compiled.js" />
+        <item url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/dist/vuex.min-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/dist/vuex-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/src/plugins/logger-compiled.js" />
+        <item url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/dist/vuex.esm-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/src/index.esm-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/src/index.esm-compiled.js" />
+        <item url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/src/index-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/src/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/src/plugins/logger-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/dist/logger-compiled-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/vue-imooc/src/main-compiled.js" />
+      <root url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/dist/vuex.min-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/dist/vuex-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/src/plugins/logger-compiled.js" />
+      <root url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/dist/vuex.esm-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/src/index.esm-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/src/index.esm-compiled.js" />
+      <root url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/src/index-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/src/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/src/plugins/logger-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/vue-imooc/node_modules/vuex/dist/logger-compiled-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

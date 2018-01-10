@@ -1,0 +1,16 @@
+{
+  "name": "crib-zk",
+  "version": "1.0.4",
+  "description": "vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "ziksang",
+  "license": "ISC",
+  "_from": "crib-zk@1.0.4",
+  "_resolved": "http://registry.npm.taobao.org/crib-zk/download/crib-zk-1.0.4.tgz"
+}
